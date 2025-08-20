@@ -12,7 +12,7 @@
                              /_____/  \___/ /_/ /_/ /_/ /_/  |___/ /_/ /_/ /_/
 ~~~
 
-### Solution Architect and AI Engineer driving digital transformation across EdTech, DeFi, and Robotics. I blend design thinking with advanced engineering to build intelligent, scalable systems.
+#### Solution Architect and AI Engineer driving digital transformation across EdTech, DeFi, and Robotics. I blend design thinking with advanced engineering to build intelligent, scalable systems.
 
 <!--
 **behnamkhorsandian/behnamkhorsandian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
