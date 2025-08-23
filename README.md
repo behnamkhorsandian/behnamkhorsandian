@@ -24,15 +24,15 @@ gantt
         M.A. — Industrial Design — UT                        :edu_ma, 2018-01-01, 2020-12-31
 
     Section Projects
-        Animatronics and Automation at APED Studio                         :done, aped, 2018-11-01, 2021-12-31
-        Industrial Design Specialist at Soorchin Sorters               :done, pfk, 2019-04-01, 2019-09-30
-        Industrial Design Specialist at Zavie                          :done, zavie, 2020-02-01, 2020-07-31
-        MVP for P2P sports betting platform on Blockchain                 :done, freelance_bet, 2022-10-01, 2022-12-31
-        MVP for AI image-gen competition platform on Blockchain                      :done, freelance_ai_comp, 2023-01-01, 2023-03-31
+        Animatronics and Automation at APED Studio                         :aped, 2018-11-01, 2021-12-31
+        Industrial Design Specialist at Soorchin Sorters               :pfk, 2019-04-01, 2019-09-30
+        Industrial Design Specialist at Zavie                          :zavie, 2020-02-01, 2020-07-31
+        MVP for P2P sports betting platform on Blockchain                 :freelance_bet, 2022-10-01, 2022-12-31
+        MVP for AI image-gen competition platform on Blockchain                      :freelance_ai_comp, 2023-01-01, 2023-03-31
 
     section Work
-        Design Manager at Sina Robotics                                 :done, sina_dm, 2021-03-01, 2022-10-31
-        AI Engineer at GoPlus                                           :done, goplus_role, 2023-10-01, 2024-09-30
+        Design Manager at Sina Robotics                                 :sina_dm, 2021-03-01, 2022-10-31
+        AI Engineer at GoPlus                                           :goplus_role, 2023-10-01, 2024-09-30
         Solution Architect at Golead                                    :active, golead_role, 2024-09-01, 2025-08-20
         Co-Founder at Echo                                              :active, echo, 2025-02-01, 2025-08-20
 ```
