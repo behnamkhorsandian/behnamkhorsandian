@@ -20,8 +20,8 @@ gantt
     axisFormat  %Y
 
     section Education
-        B.Sc. — Industrial Design — IAUCTB                   :edu_ba, 2014-01-01, 2018-12-31
-        M.A. — Industrial Design — UT                        :edu_ma, 2018-01-01, 2020-12-31
+        B.Sc. — Industrial Design — IAUCTB                   :edu_ba, 2014-01-01, 2018-01-01
+        M.A. — Industrial Design — UT                        :edu_ma, 2018-01-01, 2020-01-01
 
     Section Projects
         Animatronics and Automation at APED Studio                         :aped, 2018-11-01, 2021-12-31
