@@ -11,8 +11,9 @@
 [![Download CV](https://img.shields.io/badge/CV-Download-4B8BF4?logo=readdotcv&logoColor=white)](https://cdn.prod.website-files.com/675048fb684b61ee9a68901d/67509b7a5aa794c20326877c_Behnvm_resume_1224.pdf)
 
 # Behnam Khorsandian
-***Solution Architect and AI Engineer driving digital transformation across EdTech, DeFi, and Robotics. I blend design thinking with advanced engineering to build intelligent, scalable systems.***
+***I am a Dubai based Solution Architect specializing in data-driven digital transformation, creating scalable solutions that optimize workflows and deliver innovative products.***
 
+<!--
 ```mermaid
 gantt
     title My Journey
@@ -36,6 +37,7 @@ gantt
         Solution Architect at Golead                                    :active, golead_role, 2024-09-01, 2025-08-20
         Co-Founder at Echo                                              :active, echo, 2025-02-01, 2025-08-20
 ```
+-->
 <!--
 **behnamkhorsandian/behnamkhorsandian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
