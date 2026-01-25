@@ -10,7 +10,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/_behnvm/) -->
 
 # Behnam Khorsandian
-***I am a Dubai based Solution Architect specializing in data-driven digital transformation, creating scalable solutions that optimize workflows and deliver innovative products.***
+***Solution Architect specializing in data-driven projects***
 
 <!--
 ```mermaid
