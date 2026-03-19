@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-Profile-blue.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/behnvm)
 [![Quantoshi](https://img.shields.io/badge/Solution_Architect-Quantoshi-F46800?logo=qwant)](https://quantoshi.com/)
 [![ShapeShifters](https://img.shields.io/badge/Solution_Architect-Shape_Shifters-B6FF60.svg?logo=seat)](https://shapeshifters.dev)
-[![Vanysh](https://img.shields.io/badge/Open_Source-Vanysh-5D87BF.svg?logo=v)](https://vany.sh)
+[![Vanysh](https://img.shields.io/badge/Open_Source-Vanysh-5D87BF.svg?logo=iterm2)](https://vany.sh)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/_behnvm/) -->
 
