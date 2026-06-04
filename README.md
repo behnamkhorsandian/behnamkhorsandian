@@ -5,10 +5,10 @@
  / /_/ /  __/ / / / / / / |/ / / / / / /
 /_____/\___/_/ /_/_/ /_/|___/_/ /_/ /_/
 ~~~
-[![Unshaped](https://img.shields.io/badge/Unshaped-Portfolio-000000.svg?logo=cloudflare)](https://unshaped.dev)
-[![Quantoshi](https://img.shields.io/badge/Solution_Architect-Quantoshi-F46800?logo=qwant)](https://quantoshi.com/)
-[![ShapeShifters](https://img.shields.io/badge/Solution_Architect-Shape_Shifters-B6FF60.svg?logo=seat)](https://shapeshifters.dev)
-[![Vanysh](https://img.shields.io/badge/Open_Source-Vanysh-5D87BF.svg?logo=iterm2)](https://vany.sh)
+[![Unshaped](https://img.shields.io/badge/Unshaped-000000.svg?logo=cloudflare)](https://unshaped.dev)
+[![Quantoshi](https://img.shields.io/badge/Quantoshi-F46800?logo=qwant)](https://quantoshi.com/)
+[![ShapeShifters](https://img.shields.io/badge/Shape_Shifters-B6FF60.svg?logo=seat)](https://shapeshifters.dev)
+[![Vanysh](https://img.shields.io/badge/Vanysh-5D87BF.svg?logo=iterm2)](https://vany.sh)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/_behnvm/) -->
 
