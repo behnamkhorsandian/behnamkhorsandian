@@ -13,7 +13,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/_behnvm/) -->
 
 # Behnam Khorsandian
-***Solution Architect specializing in data-driven projects***
+Hi there, I’m a Solution Architect specializing in data-driven digital transformation. With a Bachelor’s and Master’s degree in Industrial Design and years of experience in technology-oriented projects, I blend design thinking with digital systems to create scalable solutions. My goal is to optimize workflows and deliver innovative products that enhance usability and efficiency. In my free time, I’m passionate about research, particularly exploring the similarities and differences between humans and machines. I’m excited about participating in projects that aim to bridge the gap between the Design and Engineering worlds using technology.
 
 <!--
 ```mermaid
