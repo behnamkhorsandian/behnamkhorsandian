@@ -9,6 +9,7 @@
 [![Quantoshi](https://img.shields.io/badge/Quantoshi-F46800?logo=apachekafka)](https://quantoshi.com/)
 [![ShapeShifters](https://img.shields.io/badge/Shape_Shifters-00b27a.svg?logo=sanity)](https://shapeshifters.dev)
 [![Vanysh](https://img.shields.io/badge/Vanysh-5D87BF.svg?logo=iterm2)](https://vany.sh)
+[![Xodiac](https://img.shields.io/badge/Xodiac-000000.svg?logo=youtube)](https://xodiac.io)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=white)](https://www.instagram.com/_behnvm/) -->
 
